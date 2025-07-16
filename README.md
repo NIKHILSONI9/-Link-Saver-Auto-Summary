@@ -84,7 +84,7 @@ link-saver-ui/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/link-saver-auto-summary.git
+git clone https://github.com/NIKHILSONI9/link-saver-auto-summary.git
 cd link-saver-ui
 ```
 
